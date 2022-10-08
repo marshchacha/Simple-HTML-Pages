@@ -24,10 +24,9 @@ You can contribute simple `HTML` and `CSS` based static sites. It need not be an
 * **If you have any ideas or suggestions, feel free to open an issue by using the appropriate template.**
 
 ### Important guidelines about Pull Requests
-* In order to stop spam, we are limiting the PRs to only **1 per contributor**.
-* While opening a PR, please provide a proper title and a description of your PR.
+* If you want to contribute more than one site to this repo, please do it under your main file(i.e. under your GitHub username). Ex - `marshchacha-> site1(HTML_folder, CSS_folder) site2(HTML_folder, CSS_folder)`
 
-**If you have any ideas or suggestions, feel free to open an issue and tag any of the 2 maintainers.**
+**If you have any ideas or suggestions, feel free to open an issue.**
 
 **Please follow all the above guidelines to get your Pull Requests successfully merged and help us to reduce spam.**
 <br/>
