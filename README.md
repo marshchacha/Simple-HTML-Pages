@@ -15,7 +15,7 @@ You can contribute simple `HTML` and `CSS` based static sites. It need not be an
 ### Contributing Guide
 * Star⭐ the repo
 * Fork the repo
-* Create a branch and name the branch as your GitHub username, example `marshchacha`
+* Create a branch and name the branch as your GitHub username, example `marshchacha`.
 * Then create a folder and name it as your GitHub username. Inside that make separate folders for `HTML`, `CSS`etc. Please include a Readme file describing what your site is all about. If you deploy your static site you can include the link to your site in the readme file itself.
 * While opening a PR please add proper description.
 * Please follow the folder structure, otherwise your PR will be discarded. An example is present in the repo. Please go through that structure before contributing.
